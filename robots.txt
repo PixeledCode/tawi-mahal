@@ -1,0 +1,3 @@
+Sitemap: https://tawimahal.com/sitemap.xml
+User-agent: *
+Disallow:
